@@ -5,6 +5,8 @@ It uses the prompt and the email address of the user in order to generate the ar
 
 The way the system can detect what pin is activated is through a hardcoded system where if a pin is activated then the database will recieve that package and process it through a Boolean hierarchy where the components given by the Super Starter Kit for the UNO R3 project are given a specific pin to occupy. If the request of the user exceeds the quantity of pins on the hub board then the AI Agent systematically includes the method for setting up a breadboard in the auto-generated instructions.
 
+In Order to setup your PHPMyAdmin server, you must download both XAMPP or any other server hosting platform and PHPMyAdmin. local/host databases are free for any users that want to use it for home use but online comes with more data security risks so be careful.
+
 Instructions for LCD and button setup:
 
 Power & Contrast: 
